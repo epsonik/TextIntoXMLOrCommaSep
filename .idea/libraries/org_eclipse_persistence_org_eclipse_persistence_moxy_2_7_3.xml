@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.eclipse.persistence:org.eclipse.persistence.moxy:2.7.3" type="repository">
+    <properties maven-id="org.eclipse.persistence:org.eclipse.persistence.moxy:2.7.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.3/org.eclipse.persistence.moxy-2.7.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.core/2.7.3/org.eclipse.persistence.core-2.7.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.3/org.eclipse.persistence.asm-2.7.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.2/javax.json-api-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
